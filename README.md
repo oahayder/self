@@ -1,29 +1,33 @@
 # self
 
-!! You should delete this section, just read it first !!
-Hello and thank you for trying to flesh out your managerial philosophy via Manager README. Below you will find a list of topics you could fill (or delete) with some questions to get you starting. Feel free to delete the questions once you're done.
+## Motivation for this document
 
-At any time, you can click on "NEED INSPIRATION?" button next to the "Save all changes" to get more ideas.
+I am a new software manager who wants to get better at managing. I've been an IC my whole career, and how I learned to get better was to increase self awareness and remove biases in my own reviews. We get better by 
 
-This section won't self-destruct, so just delete it once you're done reading :) 
+## My role
+I view my role as setting, and enforcing, expectations in all directions. My direct reports, my colleague managers and my directors. I do that by clearly dictating the following in descending order of priority:
 
-Motivation for this document
-[DELETE LATER]  Try to answer these questions: Why did you take the time to write this document?  What were you aiming to get from others reading it?
+_WHY
 
-My role
-[DELETE LATER]  Try to answer these questions: How are you being measured for by the organization? What are the team's KPIs? How will you help your teammates get better at their jobs? 
+Why do we need to do this? Why does it deliver value to our customers? Why is our team responsible for this? 
 
-What do I value most?
-[DELETE LATER] Try to answer these questions: What does helping me look like?  What is my process for handling conflicts? (and how you can do it yourself) How does helping me look like?  What weaknesses of mine should the team know about, and how can they help me improve?
+_WHAT
 
-My Expectations
-[DELETE LATER] Try to answer these questions: How should people set time with you? When it comes to mistakes, what's the best way for employees to come forward? How do you define "Done"? When should people be available and how? (e.g. work hours, availability via chat/phone etc.)
+What problem are we solving? What kind of solution does this require
 
-1:1s
-[DELETE LATER]  Try to answer these questions: When do you usually have 1:1s with your team? Who should lead the 1:1 (you or them)? What should be the main focus during that time?
+_WHEN
 
-Personality quirks
-[DELETE LATER]  Try to answer this question: What are the individual quirks that anyone working with me should know about? Usually, these quirks are not "good" or "bad", they just part of who you are. It's the small things that people do that gets you extremely happy/excited or extremely upset/nervous within 5 seconds without any good reason.
+When does it need to be delivered?
 
-Where to focus on your first 90 days?
-[DELETE LATER]  Try to answer these questions: What does effective onboarding look like on your team? How can they tell if they're doing a good job in their first 30 days?
+_HOW
+
+How do we make this change? This is the least important to me, since I give my ICs full autonomy in deciding implementation details. They are closer to the code than anyone else and will have the best insight into what will, and won't, work.
+
+## What do I value most?
+Enthusiasm and curiosity. If you have those two traits, everything else can be learned easily. Give a damn and question everything.
+
+## 1:1s
+TODO
+
+## Personality quirks
+TODO

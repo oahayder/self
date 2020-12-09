@@ -7,7 +7,7 @@ I am a new software manager who wants to get better at managing. I've been an IC
 ## My role
 Maximizing the long-term value add of my team. 
 
-I accomplish this by gathering and enforcing expectations in all directions. My direct reports, my colleague managers and my directors. I do that by clearly dictating the following in descending order of priority:
+I accomplish this by gathering and enforcing expectations in all directions. My direct reports, my colleague managers and my directors. I do that by clearly communicating the following in descending order of priority:
 
 **WHY**
 
@@ -26,7 +26,5 @@ When does it need to be delivered?
 How do we make this change? This is the least important to me, since I give my ICs full autonomy in deciding implementation details. They are closer to the code than anyone else and will have the best insight into what will, and won't, work.
 
 ## What do I value most?
-Enthusiasm, leadership and curiosity. If you have these traits, everything else can be learned easily. Give a damn and question everything.
+Leadership, enthusiasm, and curiosity. If you have these traits, everything else can be learned easily. Give a damn and question everything.
 
-## Personality quirks
-TODO

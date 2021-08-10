@@ -32,6 +32,15 @@ Leadership, enthusiasm, and curiosity. If you have these traits, everything else
 
 [Sapiens](https://www.ynharari.com/book/sapiens-2/)
 
+Very thought provoking read on the history of humanity. Spurred an interest in anthropology, psychology and their applications in business.
+
+
 [Extreme Ownership](https://echelonfront.com/extreme-ownership/)
 
+Verbalised a lot of leadership qualities I value most. A fun read that motivated me to be a better leader.
+
+
 [5 Dysfunctions of a Team](https://de7pikzj4hvyk.cloudfront.net/wp-content/uploads/2020/12/11224029/FiveDysfunctions.pdf)
+
+Industry standard of the foundations of a highly performing and growing team. Not intuitive to me and I find myself going back to study it often.
+

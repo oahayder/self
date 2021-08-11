@@ -4,7 +4,12 @@
 
 I am a manager who wants to get better at managing. How I've learned to get better in other roles was to increase self awareness and challenge my behaviours. I'm hoping this document can help me better understand my own behaviours as well as exhibiting to others my true self. 
 
-## My role
+## General philosophy
+
+Happiness and fulfillment is most important in life. Challenging my friends, my coworkers and my self constantly is how I know to build a culture of happiness and fulfilment.
+
+
+## My role at work
 Maximizing the long-term value add of my team. 
 
 I accomplish this by gathering and enforcing expectations in all directions. My direct reports, my peers and my manager. I do that by clearly communicating the following in descending order of priority:
@@ -32,6 +37,15 @@ Leadership, enthusiasm, and curiosity. If you have these traits, everything else
 
 [Sapiens](https://www.ynharari.com/book/sapiens-2/)
 
+Very thought provoking read on the history of humanity. Spurred an interest in anthropology, psychology and their applications in business.
+
+
 [Extreme Ownership](https://echelonfront.com/extreme-ownership/)
 
+Verbalised a lot of leadership qualities I value most. A fun read that motivated me to be a better leader.
+
+
 [5 Dysfunctions of a Team](https://de7pikzj4hvyk.cloudfront.net/wp-content/uploads/2020/12/11224029/FiveDysfunctions.pdf)
+
+Industry standard of the foundations of a highly performing and growing team. Not intuitive to me and I find myself going back to study it often.
+

@@ -8,14 +8,6 @@ I am a manager who wants to get better at managing. How I've learned to get bett
 
 Happiness and fulfillment is most important in life. Challenging my friends, my coworkers and my self constantly is how I know to build a culture of happiness and fulfilment.
 
-## Strengths
-
-Strong tech background. I've been apart from the 
-
-
-## Weaknesses
-
-
 
 ## My role at work
 Maximizing the long-term value add of my team. 

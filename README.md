@@ -4,7 +4,20 @@
 
 I am a manager who wants to get better at managing. How I've learned to get better in other roles was to increase self awareness and challenge my behaviours. I'm hoping this document can help me better understand my own behaviours as well as exhibiting to others my true self. 
 
-## My role
+## General philosophy
+
+Happiness and fulfillment is most important in life. Challenging my friends, my coworkers and my self constantly is how I know to build a culture of happiness and fulfilment.
+
+## Strengths
+
+Strong tech background. I've been apart from the 
+
+
+## Weaknesses
+
+
+
+## My role at work
 Maximizing the long-term value add of my team. 
 
 I accomplish this by gathering and enforcing expectations in all directions. My direct reports, my peers and my manager. I do that by clearly communicating the following in descending order of priority:
